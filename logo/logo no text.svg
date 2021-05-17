@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="88px" viewBox="0 0 59 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo copy</title>
+    <g id="logo-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(8.000000, 10.000000)">
+            <path d="M24,68 L18.9361061,68 C8.47795903,68 0,59.658592 0,49.3688901 L0,0 L5.06389392,0 C15.522041,0 24,8.34140798 24,18.6311099 L24,68 Z" id="Fill-1" fill="#0096FF"></path>
+            <path d="M27,17 L27,15.1009926 C27,11.1792556 30.1859414,8 34.1159257,8 L41,8 L41,9.89885856 C41,13.8207444 37.8140586,17 33.8840743,17 L27,17 Z" id="Fill-3" fill="#FF7F8A"></path>
+            <path d="M7,46 L7,40.9361061 C7,30.477959 15.4199465,22 25.8063807,22 L44,22 L44,27.0638939 C44,37.522041 35.5800535,46 25.1936193,46 L7,46 Z" id="Fill-13" fill="#FFB200"></path>
+        </g>
+    </g>
+</svg>
